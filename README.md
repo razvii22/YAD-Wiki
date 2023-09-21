@@ -1,4 +1,4 @@
-<p style="text-align: center;">git-wiki-skeleton</p>
+<p style="text-align: center;"># git-wiki-skeleton</p>
 NOTE: it's fully supported by github platform, you don't need to install anything locally
 
 This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
