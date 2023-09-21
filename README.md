@@ -4,3 +4,5 @@ Here, our [[technicians]] keep a vaguely detailed archive of all things relating
 
 
 Here is some more [[testing]]
+
+[testity] [test](test.md)
