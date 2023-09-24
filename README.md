@@ -8,16 +8,16 @@ Testing and development has been conducted throughout various purpose-built loca
 
 The locations each hold a unique history and importance to the establishment, though it is not uncommon for only one location to see significant use at any given time.
 
-## [[The Church of Casimir|<!--<span style="color:#ff8300;">-->The Church of Casimir]]
+## [The Church of Casimir](The Church of Casimir.md)
 Though not officially affiliated with any ongoing development programmes, this is recognised by those involved as its breeding grounds. Many of the [[technicians]] first gathered and mingled under this organization.
-## [[Morons and Warheads|<!--<span style="color:#fff600;">-->Morons and Warheads]]
-Home of many projects and experiments run by the [[technicians]], the Morons and Warheads facility is well suited for live environment testing of ongoing development programs run by our council.
-## [[Terrarium|<!--<span style="color:#ff66ef">-->Terrarium]]
-An attempt by ''[[Scruby]]'' and ''[[Computerfreaker]]'' to create a modpack browser for Terraria. The attempt was not successful.
-## [[Yet Another Discord|<!--<span style="color:#42ffe5;">-->Yet Another Discord]]
-A PR hub, presenting the social façade, endlessly promoting [https://www.twitch.tv/lord_scruby Scruby's Twitch], and providing an environment where strangers can quickly become tied into our operations, without escape.
-## [https://www.youtube.com/c/YetAnotherUrbanist Yet Another Urbanist]
-We do not know this guy or have any real affiliation with him, however he bears our namesake and his views on public transportation align well with those of [[Scruby]] so [[Technicians]] have accepted him as an honorary branch of ''Yet Another Community''.
+## [Morons and Warheads](Morons and Warheads.md)
+Home of many projects and experiments run by the [technicians](technicians.md), the Morons and Warheads facility is well suited for live environment testing of ongoing development programs run by our council.
+## [Terrarium](Terrarium.md)
+An attempt by [Scruby](scruby.md) and [Computerfreaker](Computerfreaker.md) to create a modpack browser for Terraria. The attempt was not successful.
+## [Yet Another Discord](Yet Another Discord.md)
+A PR hub, presenting the social façade, endlessly promoting [https://www.twitch.tv/lord_scruby](Scruby's Twitch.md), and providing an environment where strangers can quickly become tied into our operations, without escape.
+## [https://www.youtube.com/c/YetAnotherUrbanist](Yet Another Urbanist.md)
+We do not know this guy or have any real affiliation with him, however he bears our namesake and his views on public transportation align well with those of [Scruby](scruby.md) so [Technicians](technicians.md) have accepted him as an honorary branch of ''Yet Another Community''.
 
 # Technician Approved Broadcasting=
 [Scruby](scruby.md) *sometimes* streams on [twitch](https://clips.twitch.tv/WealthyCrepuscularClamBleedPurple-IACOBj1Z6QyG_lfb) as a [Vtuber](vtuber.md). Archive footage can be found on [Scruby's YouTube channel](https://www.youtube.com/channel/UCXINzNbepI3vT29GBLpTJRQ). Streams have been reviewed and approved for all audiences by our [Technicians](technicians.md) in a written report that has since been incinerated or eaten by [Laurence](Laurence.md).
@@ -25,7 +25,7 @@ We do not know this guy or have any real affiliation with him, however he bears 
 
 ## Technician Approved Games
 The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
-<gallery  position="cntre" captionalign="right" navigation="true" widths="144" spacing="small">
+<gallery  position="centre" captionalign="right" navigation="true" widths="144" spacing="small">
 FarmingSim.jpg|link=[[Farming Simulator]]
 Minecraft.jpg|link=[[Minecraft]]
 WarThunderr.jpg|link=[[War Thunder]]
@@ -72,7 +72,7 @@ TDM3.jpg|link=[[The Denpa Men 3]]
 Morshau.jpg|link=[[Morshau RTX]]
 </gallery><br/>
 
-# <!--<span style="color:#2fc42b;">-->There is Work to be Done
+# There is Work to be Done
 As ever, there is demand for unpaid interns and willing volunteers. So go get to work.
 [Technicians](technicians.md) tend to be inept, and management leaves things half-baked so ''[[Special:WantedPages|loads of stuff is probably missing]]'', make it exist and perhaps you will win some brownie points.
 Occasionally, people try to better themselves by learning additional tongues. While it is deemed vulgar for our interns to demonstrate 'any' level of intellectual accomplishment, we're more than willing to take advantage of your over-accomplishment and force you to ''[[Special:WithoutInterwiki|translate some of our archives]]'' in hopes to spark foreign investor interest. [Scruby](scruby.md) will award you ''13 Scrubonus Points'' for each translation you provide.
