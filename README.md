@@ -16,7 +16,7 @@ Home of many projects and experiments run by the [technicians](technicians.md), 
 An attempt by [Scruby](scruby.md) and [Computerfreaker](Computerfreaker.md) to create a modpack browser for Terraria. The attempt was not successful.
 ## [Yet Another Discord](Yet Another Discord.md)
 A PR hub, presenting the social façade, endlessly promoting [https://www.twitch.tv/lord_scruby](Scruby's Twitch.md), and providing an environment where strangers can quickly become tied into our operations, without escape.
-## [https://www.youtube.com/c/YetAnotherUrbanist](Yet Another Urbanist.md)
+## [Yet another Urbanist](https://www.youtube.com/c/YetAnotherUrbanist)
 We do not know this guy or have any real affiliation with him, however he bears our namesake and his views on public transportation align well with those of [Scruby](scruby.md) so [Technicians](technicians.md) have accepted him as an honorary branch of ''Yet Another Community''.
 
 # Technician Approved Broadcasting=
