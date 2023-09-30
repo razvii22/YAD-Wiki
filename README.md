@@ -30,7 +30,7 @@ We do not know this guy or have any real affiliation with him, however he bears 
 ## Technician Approved Games
 The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
 <gallery  position="centre" captionalign="right" navigation="true" width="144" spacing="small">
-![Farming Simulator](assets/YAD/Thumbnails/Games/FarmingSim.jpg)
+![Farming Simulator](img src="assets/YAD/Thumbnails/Games/FarmingSim.jpg""width=300")
 ![Minecraft](assets/YAD/Thumbnails/Games/Minecraft.jpg)
 ![War Thunder](assets/YAD/Thumbnails/Games/WarThunderr.jpg)
 ![Space Rangers](assets/YAD/Thumbnails/Games/SpaceRangers.jpg)
@@ -78,7 +78,7 @@ The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
 
 # There is Work to be Done
 As ever, there is demand for unpaid interns and willing volunteers. So go get to work.
-[Technicians](technicians.md) tend to be inept, and management leaves things half-baked so ''[[Special:WantedPages|loads of stuff is probably missing]]'', make it exist and perhaps you will win some brownie points.
+<!-- [Technicians](technicians.md) tend to be inept, and management leaves things half-baked so ''[[Special:WantedPages|loads of stuff is probably missing]]'', make it exist and perhaps you will win some brownie points.
 Occasionally, people try to better themselves by learning additional tongues. While it is deemed vulgar for our interns to demonstrate 'any' level of intellectual accomplishment, we're more than willing to take advantage of your over-accomplishment and force you to ''[[Special:WithoutInterwiki|translate some of our archives]]'' in hopes to spark foreign investor interest. [Scruby](scruby.md) will award you ''13 Scrubonus Points'' for each translation you provide.
 Free thought from interns is generally pointless and rubbish, but if you are delusional enough to think you have a good idea, go dump it on the ''[https://Yet_Another_Community.fandom.com/f notice board]''.
 
@@ -87,7 +87,7 @@ Free thought from interns is generally pointless and rubbish, but if you are del
 * [[w:c:community:Help:Contributing|How to Contribute]]
 * [[w:c:community:Help:Community Management|Managing your new community]]
 * [[w:c:community:Help:Contents|Guides]]
-* [[w:c:community:Help:Index|All Help articles]]
+* [[w:c:community:Help:Index|All Help articles]] -->
 
 
 
