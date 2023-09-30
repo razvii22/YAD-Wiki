@@ -29,8 +29,8 @@ We do not know this guy or have any real affiliation with him, however he bears 
 
 ## Technician Approved Games
 The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
-<gallery  position="centre" captionalign="right" navigation="true" width="144" spacing="small">
-<img src="assets/YAD/Thumbnails/Games/FarmingSim.jpg" width="144" link=[Farming Simulator]>
+<!-- <gallery  position="centre" captionalign="right" navigation="true" width="144" spacing="small"> -->
+<a href="FarmingSimulator.md"><img src="assets/YAD/Thumbnails/Games/FarmingSim.jpg" width="144">
 ![Minecraft](assets/YAD/Thumbnails/Games/Minecraft.jpg)
 ![War Thunder](assets/YAD/Thumbnails/Games/WarThunderr.jpg)
 ![Space Rangers](assets/YAD/Thumbnails/Games/SpaceRangers.jpg)
