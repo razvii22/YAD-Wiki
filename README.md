@@ -29,7 +29,7 @@ We do not know this guy or have any real affiliation with him, however he bears 
 
 ## Technician Approved Games
 The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
-<gallery  position="centre" captionalign="right" navigation="true" width="144" spacing="small">
+<!-- <gallery  position="centre" captionalign="right" navigation="true" width="144" spacing="small"> -->
 ![Farming Simulator](../assets/YAD/Thumbnails/GamesFarmingSim.jpg)
 ![Minecraft](../assets/YAD/Thumbnails/GamesMinecraft.jpg)
 ![War Thunder](../assets/YAD/Thumbnails/GamesWarThunderr.jpg)
@@ -74,7 +74,7 @@ The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
 ![The Denpa Men 2](../assets/YAD/Thumbnails/GamesTDM2.jpg)
 ![The Denpa Men 3](../assets/YAD/Thumbnails/GamesTDM3.jpg)
 ![Morshau RTX](../assets/YAD/Thumbnails/GamesMorshau.jpg)
-</gallery><br/>
+<!-- </gallery><br/> -->
 
 # There is Work to be Done
 As ever, there is demand for unpaid interns and willing volunteers. So go get to work.
