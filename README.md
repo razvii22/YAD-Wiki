@@ -25,51 +25,51 @@ We do not know this guy or have any real affiliation with him, however he bears 
 
 ## Technician Approved Games
 The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
-<gallery  position="centre" captionalign="right" navigation="true" widths="144" spacing="small">
-FarmingSim.jpg|link=[[Farming Simulator]]
-Minecraft.jpg|link=[[Minecraft]]
-WarThunderr.jpg|link=[[War Thunder]]
-SpaceRangers.jpg|link=[[Space Rangers]]
-GOIWBF.jpg|link=[[Getting Over It]]
-Bibleman-video-game.jpg|link=[[The Bibleman The Video Game: The Fight For The Faith]]
-HalfLife.jpg|link=[[Epic Half Life Adventures]]
-DontStarveTogether.jpg|link=[[Don't Starve Together]]
-Portal.jpg|link=[[Portal]]
-Scrap.jpg|link=[[Scrap Mechanic]]
-Abandon.jpg|link=[[Through Abandon]]
-OTTD.jpg|link=[[Open Transport Tycoon Deluxe]]
-Novolin.jpg|link=[[Captain Novolin]]
-Mindustry.jpg|link=[[Mindustry]]
-FTL.jpg|link=[[Faster Than Light]]
-CaveStory.jpg|link=[[Cave Story]]
-BusinessTour.jpg|link=[[Business Tour Online]]
-JustChatting.jpg|link=[[Just Chatting]]
-Passpartout,jpg.jpg|link=[[Passpartout the Starving Artist]]
-GTA.jpg|link=[[Grand Theft Auto]]
-Starbound.jpg|link=[[Starbound]]
-MudRunner.jpg|link=[[Mud Runner]]
-Stanley.jpg|link=[[The Stanley Parable]]
-Deeper.jpg|link=[[We Need To Go Deeper]]
-DF.jpg|link=[[Dwarf Fortress]]
-DesertBus.jpg|link=[[Desert Bus]]
-Binding.jpg|link=[[The Binding of Isaac]]
-DokiDoki.jpg|link=[[Doki Doki Literature Club]]
-AdolescentSanta.jpg|link=[[Adolescent Santa]]
-100OJ.jpg|link=[[100% Orange Juice]]
-TRDS.jpg|link=[[Totally Reliable Delivery Service]]
-Turnip.jpg|link=[[Turnip Boy Commits Tax Evasion]]
-CompleteSaga.jpg|link=[[Lego Star Wars The Complete Saga]]
-PSO2NG.jpg|link=[[PhantasyStarOnline2]]
-TF2.jpg|link=[[Team Fortress 2]]
-L4D2.jpg|link=[[Left 4 Dead 2]]
-Overcooked.jpg|link=[[Overcooked]]
-DR.jpg|link=[Dome Romantik]]
-GMod.jpg|link=[[Garry's Mod]]
-PS2.jpg|link=[[Planetside 2]]
-CoolMaths.jpg|link=[[Cool Maths Gmaes]]
-TDM2.jpg|link=[[The Denpa Men 2]]
-TDM3.jpg|link=[[The Denpa Men 3]]
-Morshau.jpg|link=[[Morshau RTX]]
+<gallery  position="centre" captionalign="right" navigation="true" width="144" spacing="small">
+!(..assets/YAD/Thumbnails/GamesFarmingSim.jpg|link=[[Farming Simulator]])
+..assets/YAD/Thumbnails/GamesMinecraft.jpg|link=[[Minecraft]])
+![](assets/YAD/Thumbnails/GamesWarThunderr.jpg|link=[[War Thunder]])
+![](assets/YAD/Thumbnails/GamesSpaceRangers.jpg|link=[[Space Rangers]]_)
+![](assets/YAD/Thumbnails/GamesGOIWBF.jpg|link=[[Getting Over It]])
+![](assets/YAD/Thumbnails/GamesBibleman-video-game.jpg|link=[[The Bibleman The Video Game: The Fight For The Faith]])
+![](assets/YAD/Thumbnails/GamesHalfLife.jpg|link=[[Epic Half Life Adventures]])
+![](assets/YAD/Thumbnails/GamesDontStarveTogether.jpg|link=[[Don't Starve Together]])
+![PORTAL](assets/YAD/Thumbnails/GamesPortal.jpg|link=[[Portal]])
+![MECHANIC](assets/YAD/Thumbnails/GamesScrap.jpg|link=[[Scrap Mechanic]])
+![TA](assets/YAD/Thumbnails/GamesAbandon.jpg|link=[[Through Abandon]])
+![OTTD](assets/YAD/Thumbnails/GamesOTTD.jpg|link=[[Open Transport Tycoon Deluxe]])
+![NOVALIN](assets/YAD/Thumbnails/GamesNovolin.jpg|link=[[Captain Novolin]])
+![MINDUSTRY](assets/YAD/Thumbnails/GamesMindustry.jpg|link=[[Mindustry]])
+![FTL](assets/YAD/Thumbnails/GamesFTL.jpg|link=[[Faster Than Light]])
+![CAVE](assets/YAD/Thumbnails/GamesCaveStory.jpg|link=[[Cave Story]])
+![BTO](assets/YAD/Thumbnails/GamesBusinessTour.jpg|link=[[Business Tour Online]])
+![CHAT](assets/YAD/Thumbnails/GamesJustChatting.jpg|link=[[Just Chatting]])
+![PARSPARTOUT](assets/YAD/Thumbnails/GamesPasspartout,jpg.jpg|link=[[Passpartout the Starving Artist]])
+![GTA](assets/YAD/Thumbnails/GamesGTA.jpg|link=[[Grand Theft Auto]])
+![STARBOUND](assets/YAD/Thumbnails/GamesStarbound.jpg|link=[[Starbound]])
+![MUDRUNNER](assets/YAD/Thumbnails/GamesMudRunner.jpg|link=[[Mud Runner]])
+![STANLEY](assets/YAD/Thumbnails/GamesStanley.jpg|link=[[The Stanley Parable]])
+![DEEPER](assets/YAD/Thumbnails/GamesDeeper.jpg|link=[[We Need To Go Deeper]])
+![DWARF](assets/YAD/Thumbnails/GamesDF.jpg|link=[[Dwarf Fortress]])
+![DESERTBUS](assets/YAD/Thumbnails/GamesDesertBus.jpg|link=[[Desert Bus]])
+![ISAAC](assets/YAD/Thumbnails/GamesBinding.jpg|link=[[The Binding of Isaac]])
+![DDLC](assets/YAD/Thumbnails/GamesDokiDoki.jpg|link=[[Doki Doki Literature Club]])
+![SANTA](assets/YAD/Thumbnails/GamesAdolescentSanta.jpg|link=[[Adolescent Santa]])
+![100OJ](assets/YAD/Thumbnails/Games100OJ.jpg|link=[[100% Orange Juice]])
+![TRDS](assets/YAD/Thumbnails/GamesTRDS.jpg|link=[[Totally Reliable Delivery Service]])
+![TBCTE](assets/YAD/Thumbnails/GamesTurnip.jpg|link=[[Turnip Boy Commits Tax Evasion]])
+![LSTCS](assets/YAD/Thumbnails/GamesCompleteSaga.jpg|link=[[Lego Star Wars The Complete Saga]])
+![PSO2](assets/YAD/Thumbnails/GamesPSO2NG.jpg|link=[[PhantasyStarOnline2]])
+![TF2](assets/YAD/Thumbnails/GamesTF2.jpg|link=[[Team Fortress 2]])
+![L4D2](assets/YAD/Thumbnails/GamesL4D2.jpg|link=[[Left 4 Dead 2]])
+![OC2](assets/YAD/Thumbnails/GamesOvercooked.jpg|link=[[Overcooked]])
+![DROMANTIK](assets/YAD/Thumbnails/GamesDR.jpg|link=[Dome Romantik]])
+![GMOD](assets/YAD/Thumbnails/GamesGMod.jpg|link=[[Garry's Mod]])
+![PS2](assets/YAD/Thumbnails/GamesPS2.jpg|link=[[Planetside 2]])
+![CMG](assets/YAD/Thumbnails/GamesCoolMaths.jpg|link=[[Cool Maths Gmaes]])
+![TDM2](assets/YAD/Thumbnails/GamesTDM2.jpg|link=[[The Denpa Men 2]])
+![TDM3](assets/YAD/Thumbnails/GamesTDM3.jpg|link=[[The Denpa Men 3]])
+![Morshau](assets/YAD/Thumbnails/GamesMorshau.jpg|link=[[Morshau RTX]])
 </gallery><br/>
 
 # There is Work to be Done
