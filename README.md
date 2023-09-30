@@ -29,6 +29,20 @@ We do not know this guy or have any real affiliation with him, however he bears 
 
 ## Technician Approved Games
 The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
+<<<<<<< HEAD
+![Farming Simulator](../assets/YAD/Thumbnails/Games/FarmingSim.jpg)
+![Minecraft](../assets/YAD/Thumbnails/Games/Minecraft.jpg)
+![War Thunder](../assets/YAD/Thumbnails/Games/WarThunderr.jpg)
+![Space Rangers](../assets/YAD/Thumbnails/Games/SpaceRangers.jpg_)
+![Getting Over It](../assets/YAD/Thumbnails/Games/GOIWBF.jpg)
+![The Bibleman The Video Game: The Fight For The Faith](../assets/YAD/Thumbnails/Games/Bibleman-video-game.jpg)
+![Epic Half Life Adventures](../assets/YAD/Thumbnails/Games/HalfLife.jpg)
+![Don't Starve Together](../assets/YAD/Thumbnails/Games/DontStarveTogether.jpg)
+![Portal](../assets/YAD/Thumbnails/Games/Portal.jpg)
+![Scrap Mechanic](../assets/YAD/Thumbnails/Games/Scrap.jpg)
+![Through Abandon](../assets/YAD/Thumbnails/Games/Abandon.jpg)
+![Open Transport Tycoon Deluxe](../assets/YAD/Thumbnails/Games/OTTD.jpg)
+=======
 <gallery  position="centre" captionalign="right" navigation="true" width="144" spacing="small">
 ![Farming Simulator](assets/YAD/Thumbnails/Games/FarmingSim.jpg)
 ![Minecraft](assets/YAD/Thumbnails/Games/Minecraft.jpg)
@@ -42,6 +56,7 @@ The following titles have featured in [Scruby](scruby.md)'s streams:<br/>
 ![Scrap Mechanic](assets/YAD/Thumbnails/Games/Scrap.jpg)
 ![Through Abandon](assets/YAD/Thumbnails/Games/Abandon.jpg)
 ![Open Transport Tycoon Deluxe](assets/YAD/Thumbnails/Games/OTTD.jpg)
+>>>>>>> 987f301b37ba0a51e26e1127c52ecc5694315819
 ![Captain Novolin](assets/YAD/Thumbnails/Games/Novolin.jpg)
 ![Mindustry](assets/YAD/Thumbnails/Games/Mindustry.jpg)
 ![Faster Than Light](assets/YAD/Thumbnails/Games/FTL.jpg)
@@ -82,7 +97,7 @@ As ever, there is demand for unpaid interns and willing volunteers. So go get to
 Occasionally, people try to better themselves by learning additional tongues. While it is deemed vulgar for our interns to demonstrate 'any' level of intellectual accomplishment, we're more than willing to take advantage of your over-accomplishment and force you to ''[[Special:WithoutInterwiki|translate some of our archives]]'' in hopes to spark foreign investor interest. [Scruby](scruby.md) will award you ''13 Scrubonus Points'' for each translation you provide.
 Free thought from interns is generally pointless and rubbish, but if you are delusional enough to think you have a good idea, go dump it on the ''[https://Yet_Another_Community.fandom.com/f notice board]''.
 
-* [[Project:Wiki rules|Rules of this wiki]]
+<!-- * [[Project:Wiki rules|Rules of this wiki]]
 * [[w:c:community:Help:Getting Started|Getting Started]]
 * [[w:c:community:Help:Contributing|How to Contribute]]
 * [[w:c:community:Help:Community Management|Managing your new community]]
@@ -99,4 +114,4 @@ UwU I'm editing this :3<mainpage-endcolumn />
 [[Category:Games]]
 [[Category:Maintenance]]
 [[Category:Media]]
-[[Category:Mafia]]
+[[Category:Mafia]] -->
