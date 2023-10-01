@@ -1,5 +1,5 @@
 ---
-permalink: /readme
+permalink: /
 is_wiki_page: true
 ---
 # <span style="color:#FFC300;">Welcome to the Communal Archive of Yet Another Discord

@@ -1,6 +1,6 @@
 ---
-permalink: /
-is_wiki_page: true
+permalink: /example
+is_wiki_page: false
 ---
 ## Example page
 
