@@ -23,7 +23,7 @@ A PR hub, presenting the social façade, endlessly promoting [https://www.twitch
 ## [Yet another Urbanist](https://www.youtube.com/c/YetAnotherUrbanist)
 We do not know this guy or have any real affiliation with him, however he bears our namesake and his views on public transportation align well with those of [Scruby](scruby.md) so [Technicians](technicians.md) have accepted him as an honorary branch of ''Yet Another Community''.
 
-# Technician Approved Broadcasting=
+# Technician Approved Broadcasting
 [Scruby](scruby.md) *sometimes* streams on [twitch](https://clips.twitch.tv/WealthyCrepuscularClamBleedPurple-IACOBj1Z6QyG_lfb) as a [Vtuber](vtuber.md). Archive footage can be found on [Scruby's YouTube channel](https://www.youtube.com/channel/UCXINzNbepI3vT29GBLpTJRQ). Streams have been reviewed and approved for all audiences by our [Technicians](technicians.md) in a written report that has since been incinerated or eaten by [Laurence](Laurence.md).
 <br />Occasionally viewers may find YuGiOh content amongst the approved broadcasting. This content is not in line with current views or affiliations of the Yet Another Community and should be immediately dismissed as relics of a time long gone.
 
