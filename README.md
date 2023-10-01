@@ -73,7 +73,6 @@ The following titles have featured in [Scruby's](scruby.md) streams:<br/>
 <a href="games/[The Denpa Men 2"><img src="assets/YAD/Thumbnails/Games/TDM2.jpg" width="144" height="192"></a>
 <a href="games/The Denpa Men 3"><img src="assets/YAD/Thumbnails/Games/TDM3.jpg" width="144" height="192"></a>
 <a href="games/Morshau RTX"><img src="assets/YAD/Thumbnails/Games/Morshau.jpg" width="144" height="192"></a>
-</gallery><br/>
 
 
 # There is Work to be Done
@@ -95,8 +94,3 @@ UwU I'm editing this :3<mainpage-endcolumn />
 
 
 <mainpage-endcolumn />
-[[Category:Misc]]
-[[Category:Games]]
-[[Category:Maintenance]]
-[[Category:Media]]
-[[Category:Mafia]]
