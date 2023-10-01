@@ -47,7 +47,7 @@ The following titles have featured in [Scruby's](scruby.md) streams:<br/>
 <a href="games/Faster Than Light"><img src="assets/YAD/Thumbnails/Games/FTL.jpg" width="144" height="192"></a>
 <a href="games/Cave Story"><img src="assets/YAD/Thumbnails/Games/CaveStory.jpg" width="144" height="192"></a>
 <a href="Business Tour Online"><img src="assets/YAD/Thumbnails/Games/BusinessTour.jpg" width="144" height="192"></a>
-<a href="games/Just Chatting"><img src="assets/YAD/Thumbnails/Games/JustChatting.jpg" width="144" height="192"></a>
+<a href="https://www.urbandictionary.com/define.php?term=Down%20Bad"><img src="assets/YAD/Thumbnails/Games/JustChatting.jpg" width="144" height="192"></a>
 <a href="games/Passpartout the Starving Artist"><img src="assets/YAD/Thumbnails/Games/Passpartout,jpg.jpg" width="144"></a>
 <a href="games/Grand Theft Auto"><img src="assets/YAD/Thumbnails/Games/GTA.jpg" width="144" height="192"></a>
 <a href="games/Starbound"><img src="assets/YAD/Thumbnails/Games/Starbound.jpg" width="144" height="192"></a>
