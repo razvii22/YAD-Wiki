@@ -16,9 +16,9 @@ The locations each hold a unique history and importance to the establishment, th
 Though not officially affiliated with any ongoing development programmes, this is recognised by those involved as its breeding grounds. Many of the [[technicians]] first gathered and mingled under this organization.
 ## [Morons and Warheads](Morons and Warheads.md)
 Home of many projects and experiments run by the [technicians](technicians.md), the Morons and Warheads facility is well suited for live environment testing of ongoing development programs run by our council.
-## [Terrarium](Terrarium.md)
+## ![Terrarium](Terrarium.md)
 An attempt by [Scruby](scruby.md) and [Computerfreaker](Computerfreaker.md) to create a modpack browser for Terraria. The attempt was not successful.
-## [Yet Another Discord](Yet Another Discord.md)
+## ![Yet Another Discord](Yet Another Discord.md)
 A PR hub, presenting the social façade, endlessly promoting [https://www.twitch.tv/lord_scruby](Scruby's Twitch.md), and providing an environment where strangers can quickly become tied into our operations, without escape.
 ## [Yet another Urbanist](https://www.youtube.com/c/YetAnotherUrbanist)
 We do not know this guy or have any real affiliation with him, however he bears our namesake and his views on public transportation align well with those of [Scruby](scruby.md) so [Technicians](technicians.md) have accepted him as an honorary branch of ''Yet Another Community''.
