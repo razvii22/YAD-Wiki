@@ -35,10 +35,10 @@ The following titles have featured in [Scruby's](scruby.md) streams:<br/>
 <a href="games/War Thunder"><img src="assets/YAD/Thumbnails/Games/WarThunderr.jpg" width="144" height="192"></a>
 <a href="games/Space Rangers"><img src="assets/YAD/Thumbnails/Games/SpaceRangers.jpg" width="144" height="192"></a>
 <a href="games/Getting Over It"><img src="assets/YAD/Thumbnails/Games/GOIWBF.jpg" width="144" height="192"></a>
-<a href="The Bibleman The Video Game The Fight For The Faith"><img src="assets/YAD/Thumbnails/Games/Bibleman-video-game.jpg" width="144" height="192"></a>
+<a href="games/The Bibleman The Video Game The Fight For The Faith"><img src="assets/YAD/Thumbnails/Games/Bibleman-video-game.jpg" width="144" height="192"></a>
 <a href="games/Epic Half Life Adventures"><img src="assets/YAD/Thumbnails/Games/HalfLife.jpg" width="144" height="192"></a>
 <a href="games/Don't Starve Together"><img src="assets/YAD/Thumbnails/Games/DontStarveTogether.jpg" width="144" height="192"></a>
-<a href="Portal"><img src="assets/YAD/Thumbnails/Games/Portal.jpg" width="144" height="192"></a>
+<a href="games/Portal"><img src="assets/YAD/Thumbnails/Games/Portal.jpg" width="144" height="192"></a>
 <a href="games/Scrap Mechanic"><img src="assets/YAD/Thumbnails/Games/Scrap.jpg" width="144" height="192"></a>
 <a href="games/Through Abandon"><img src="assets/YAD/Thumbnails/Games/Abandon.jpg" width="144" height="192"></a>
 <a href="games/Open Transport Tycoon Deluxe"><img src="assets/YAD/Thumbnails/Games/OTTD.jpg" width="144" height="192"></a>
@@ -46,7 +46,7 @@ The following titles have featured in [Scruby's](scruby.md) streams:<br/>
 <a href="games/Mindustry"><img src="assets/YAD/Thumbnails/Games/Mindustry.jpg" width="144" height="192"></a>
 <a href="games/Faster Than Light"><img src="assets/YAD/Thumbnails/Games/FTL.jpg" width="144" height="192"></a>
 <a href="games/Cave Story"><img src="assets/YAD/Thumbnails/Games/CaveStory.jpg" width="144" height="192"></a>
-<a href="Business Tour Online"><img src="assets/YAD/Thumbnails/Games/BusinessTour.jpg" width="144" height="192"></a>
+<a href="games/Business Tour Online"><img src="assets/YAD/Thumbnails/Games/BusinessTour.jpg" width="144" height="192"></a>
 <a href="https://www.urbandictionary.com/define.php?term=Down%20Bad"><img src="assets/YAD/Thumbnails/Games/JustChatting.jpg" width="144" height="192"></a>
 <a href="games/Passpartout the Starving Artist"><img src="assets/YAD/Thumbnails/Games/Passpartout,jpg.jpg" width="144"></a>
 <a href="games/Grand Theft Auto"><img src="assets/YAD/Thumbnails/Games/GTA.jpg" width="144" height="192"></a>
