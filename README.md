@@ -34,8 +34,8 @@ The following titles have featured in [Scruby's](scruby.md) streams:<br/>
 <a href="games/War Thunder"><img src="assets/YAD/Thumbnails/Games/WarThunderr.jpg" width="144" height="192"></a>
 <a href="games/Space Rangers"><img src="assets/YAD/Thumbnails/Games/SpaceRangers.jpg" width="144" height="192"></a>
 <a href="games/Getting Over It"><img src="assets/YAD/Thumbnails/Games/GOIWBF.jpg" width="144" height="192"></a>
-<a href="The Bibleman The Video Game: The Fight For The Faith"><img src="assets/YAD/Thumbnails/Games/Bibleman-video-game.jpg"width="144" height="192"></a>
-<a href="games/Epic Half Life Adventures"><img src="assets/YAD/Thumbnails/Games/HalfLife.jpg"width="144" height="192"></a>
+<a href="The Bibleman The Video Game The Fight For The Faith"><img src="assets/YAD/Thumbnails/Games/Bibleman-video-game.jpg" width="144" height="192"></a>
+<a href="games/Epic Half Life Adventures"><img src="assets/YAD/Thumbnails/Games/HalfLife.jpg" width="144" height="192"></a>
 <a href="games/Don't Starve Together"><img src="assets/YAD/Thumbnails/Games/DontStarveTogether.jpg" width="144" height="192"></a>
 <a href="Portal"><img src="assets/YAD/Thumbnails/Games/Portal.jpg" width="144" height="192"></a>
 <a href="games/Scrap Mechanic"><img src="assets/YAD/Thumbnails/Games/Scrap.jpg" width="144" height="192"></a>
