@@ -51,7 +51,7 @@ The following titles have featured in [Scruby's](scruby.md) streams:<br/>
 <a href="https://www.urbandictionary.com/define.php?term=Down%20Bad"><img src="assets/YAD/Thumbnails/Games/JustChatting.jpg" width="144" height="192"></a>
 <a href="games/Passpartout the Starving Artist"><img src="assets/YAD/Thumbnails/Games/Passpartout,jpg.jpg" width="144"></a>
 <a href="games/Grand Theft Auto"><img src="assets/YAD/Thumbnails/Games/GTA.jpg" width="144" height="192"></a>
-<a href="games/Starbound.md"><img src="assets/YAD/Thumbnails/Games/Starbound.jpg" width="144" height="192"></a>
+<a href="Starbound.md"><img src="assets/YAD/Thumbnails/Games/Starbound.jpg" width="144" height="192"></a>
 <a href="games/Mud Runner"><img src="assets/YAD/Thumbnails/Games/MudRunner.jpg" width="144" height="192"></a>
 <a href="games/The Stanley Parable"><img src="assets/YAD/Thumbnails/Games/Stanley.jpg" width="144" height="192"></a>
 <a href="games/We Need To Go Deeper"><img src="assets/YAD/Thumbnails/Games/Deeper.jpg" width="144" height="192"></a>
