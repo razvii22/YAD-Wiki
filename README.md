@@ -28,6 +28,7 @@ We do not know this guy or have any real affiliation with him, however he bears 
 <br />Occasionally viewers may find YuGiOh content amongst the approved broadcasting. This content is not in line with current views or affiliations of the Yet Another Community and should be immediately dismissed as relics of a time long gone.
 
 ## Technician Approved Games
+  
 The following titles have featured in [Scruby's](scruby.md) streams:<br/>
 <a href="games/FarmingSimulator.md"><img src="assets/YAD/Thumbnails/Games/FarmingSim.jpg" width="144" height="192"></a>
 <a href="games/Minecraft"><img src="assets/YAD/Thumbnails/Games/Minecraft.jpg" width="144" height="192"></a>
@@ -81,16 +82,3 @@ As ever, there is demand for unpaid interns and willing volunteers. So go get to
 Occasionally, people try to better themselves by learning additional tongues. While it is deemed vulgar for our interns to demonstrate 'any' level of intellectual accomplishment, we're more than willing to take advantage of your over-accomplishment and force you to ''[[Special:WithoutInterwiki|translate some of our archives]]'' in hopes to spark foreign investor interest. [Scruby](scruby.md) will award you ''13 Scrubonus Points'' for each translation you provide.
 Free thought from interns is generally pointless and rubbish, but if you are delusional enough to think you have a good idea, go dump it on the ''[https://Yet_Another_Community.fandom.com/f notice board]''.
 
-* [[Project:Wiki rules|Rules of this wiki]]
-* [[w:c:community:Help:Getting Started|Getting Started]]
-* [[w:c:community:Help:Contributing|How to Contribute]]
-* [[w:c:community:Help:Community Management|Managing your new community]]
-* [[w:c:community:Help:Contents|Guides]]
-* [[w:c:community:Help:Index|All Help articles]] -->
-
-
-
-UwU I'm editing this :3<mainpage-endcolumn />
-
-
-<mainpage-endcolumn />
