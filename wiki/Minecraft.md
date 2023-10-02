@@ -1,4 +1,4 @@
 # Minecraft
-<div style="text-align: left;"><img src="assets/YAD/Thumbnails/Games/Minecraft.jpg" width="144" height="192"><div\> *Mineraft* is the cool block game. <br />
+<div style="text-align: left;"><img src="assets/YAD/Thumbnails/Games/Minecraft.jpg" width="144" height="192"></div> *Mineraft* is the cool block game. <br />
 Some of [Scruby's](Scruby) and [Computerfreaker's](https://computerfreaker.pw) longest streams were Minecraft *[Skyfactory streams](https://www.youtube.com/playlist?list=PLRo8ixh-3q6dno2VFWX-DWCMHzeVBrArb)*. <br />
-Minecraft has played host to much of [Scruby](Scruby), [Ficko](Ficko), and [Razvii's](Razvii) fuckery, being the host game to such wonderous projects as The [The Fort|Fort](Fort World), [Retardis](Retardis), [All the stupid missile bunker pits](Morons and Warheads), and the mighty [Brazzers IBM](Brazzers IBM).
+Minecraft has played host to much of [Scruby](Scruby), [Ficko](Ficko), and [Razvii's](Razvii) fuckery, being the host game to such wonderous projects as The [The Fort](Fort World), [Retardis](Retardis), [All the stupid missile bunker pits](Morons and Warheads), and the mighty [Brazzers IBM](Brazzers IBM).
