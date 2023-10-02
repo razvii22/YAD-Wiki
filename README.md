@@ -2,7 +2,7 @@
 permalink: /
 is_wiki_page: true
 ---
-
+ 
 # <span style="color:#FFC300;">Welcome to the Communal Archive of Yet Another Discord
 Here, our [technicians](technicians.md) keep a vaguely detailed archive of all things relating to the ongoing development and evolution of our project. Under strict supervision from [Janitors](Janitors.md).
 
